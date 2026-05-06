@@ -13,38 +13,33 @@ Enrich video game datasets using the Google AI Studio (Gemini) API with an autom
 ## Setup & Configuration
 
 1. Install Dependencies
-Ensure you have Python installed, then run:
+    Ensure you have Python installed, then run:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 2. Set API Keys
-Create a .env file in the project root folder and add your keys:
+    Create a .env file in the project root folder and add your keys:
 
-Cuplikan kode
-GEMINI_API_KEY=your_gemini_key
-DEEPSEEK_API_KEY=your_deepseek_key
-Get Gemini key: https://aistudio.google.com/app/apikey
-
-Get DeepSeek key: https://platform.deepseek.com/api_keys
+    GEMINI_API_KEY=your_gemini_key
+    DEEPSEEK_API_KEY=your_deepseek_key
 
 3. Prepare Input Data
-Save your input file as data/game-thumbnail.csv. It must include these headers:
+    Save your input file as data/game-thumbnail.csv. It must include these headers:
 
-Cuplikan kode
-game_title,image_url
-Street Fighter 6,[https://images.igdb.com/](https://images.igdb.com/)...
-Hunt: Showdown 1896,[https://images.igdb.com/](https://images.igdb.com/)...
-Usage
-Run the script via terminal:
+    game_title,image_url
+    Street Fighter 6,[https://images.igdb.com/](https://images.igdb.com/)...
+    Hunt: Showdown 1896,[https://images.igdb.com/](https://images.igdb.com/)...
+    Usage
+    Run the script via terminal:
 
-python main.py
-Expected Output
-The script generates a new file at data/Enhanced_Game_Data.csv containing your original data plus these new columns:
+    python main.py
+    Expected Output
+    The script generates a new file at data/Enhanced_Game_Data.csv containing your original data plus these new columns:
 
-genre: Single-word genre (e.g., Shooter, RPG).
+    genre: Single-word genre (e.g., Shooter, RPG).
 
-short_description: Brief summary (max 30 words).
+    short_description: Brief summary (max 30 words).
 
-player_mode: Singleplayer / Multiplayer / Both.
+    player_mode: Singleplayer / Multiplayer / Both.
 
-api_source: The API that successfully processed the row (gemini / deepseek).
+    api_source: The API that successfully processed the row (gemini / deepseek).
