@@ -1,0 +1,51 @@
+game_title,image_url,genre,short_description,player_mode,api_source
+Street Fighter 6,https://images.igdb.com/igdb/image/upload/t_cover_big/co5vst.jpg,Fighting,Latest entry in the iconic fighting franchise with modern mechanics and diverse roster.,Both,deepseek
+Hunt: Showdown 1896,https://images.igdb.com/igdb/image/upload/t_cover_big/co8o7i.jpg,Shooter,PvPvE bounty hunting in a dark Louisiana bayou with high stakes.,Multiplayer,deepseek
+Wuthering Waves,https://images.igdb.com/igdb/image/upload/t_cover_big/co92hl.jpg,RPG,Open-world action RPG with fast-paced combat and gacha elements.,Both,deepseek
+Arma Reforger,https://images.igdb.com/igdb/image/upload/t_cover_big/co4rk4.jpg,Simulation,Military simulation with large-scale combined arms warfare.,Both,deepseek
+Lethal Company,https://images.igdb.com/igdb/image/upload/t_cover_big/co5ive.jpg,Survival,Co-op horror game where you scavenge for scrap on dangerous moons.,Both,deepseek
+Arena Breakout: Infinite,https://images.igdb.com/igdb/image/upload/t_cover_big/co84b9.jpg,Shooter,Tactical extraction shooter with realistic combat and loot.,Multiplayer,deepseek
+Zenless Zone Zero,https://images.igdb.com/igdb/image/upload/t_cover_big/co90je.jpg,RPG,Stylish action RPG set in a post-apocalyptic urban fantasy world.,Singleplayer,deepseek
+ARK: Survival Ascended,https://images.igdb.com/igdb/image/upload/t_cover_big/co7ace.jpg,Survival,Remake of the dinosaur survival game with enhanced visuals and mechanics.,Both,deepseek
+Sid Meier's Civilization VII,https://images.igdb.com/igdb/image/upload/t_cover_big/co8po2.jpg,Strategy,"Build an empire through exploration, diplomacy, and warfare across eras.",Both,deepseek
+SMITE 2,https://images.igdb.com/igdb/image/upload/t_cover_big/co7m9c.jpg,MOBA,Third-person multiplayer online battle arena with mythological gods.,Multiplayer,deepseek
+Throne and Liberty,https://images.igdb.com/igdb/image/upload/t_cover_big/co8j6b.jpg,RPG,A free-to-play MMORPG set in a fantasy world with large-scale battles.,Multiplayer,deepseek
+Enshrouded,https://images.igdb.com/igdb/image/upload/t_cover_big/co6gct.jpg,Survival,"A survival action RPG set in a vast, shrouded world with base building.",Both,deepseek
+Poppy Playtime,https://images.igdb.com/igdb/image/upload/t_cover_big/co90hm.jpg,Adventure,A first-person horror puzzle game set in an abandoned toy factory.,Singleplayer,deepseek
+It Takes Two,https://images.igdb.com/igdb/image/upload/t_cover_big/co2t97.jpg,Action,A cooperative action-adventure game about a couple turned into dolls.,Multiplayer,deepseek
+DYNASTY WARRIORS: ORIGINS,https://images.igdb.com/igdb/image/upload/t_cover_big/co9129.jpg,Action,A hack-and-slash action game set in ancient China with massive battles.,Singleplayer,deepseek
+NHL 25,https://images.igdb.com/igdb/image/upload/t_cover_big/co8pwh.jpg,Simulation,A hockey simulation game with realistic gameplay and modes.,Both,deepseek
+Balatro,https://images.igdb.com/igdb/image/upload/t_cover_big/co752b.jpg,Strategy,A poker-inspired roguelike deck-building game where you create winning hands.,Singleplayer,deepseek
+MiSide,https://images.igdb.com/igdb/image/upload/t_cover_big/co7e6i.jpg,Survival,A psychological horror game where you explore a mysterious apartment.,Singleplayer,deepseek
+Metaphor: ReFantazio,https://images.igdb.com/igdb/image/upload/t_cover_big/co8d9t.jpg,RPG,A fantasy RPG from Atlus with turn-based combat and social simulation.,Singleplayer,deepseek
+Indiana Jones and the Great Circle,https://images.igdb.com/igdb/image/upload/t_cover_big/co7nbc.jpg,Action,An action-adventure game following Indiana Jones on a global quest.,Singleplayer,deepseek
+Hell Let Loose,https://images.igdb.com/igdb/image/upload/t_cover_big/co6sqr.jpg,Shooter,Realistic WWII first-person shooter with large-scale battles and teamwork.,Multiplayer,deepseek
+Super Mario 64,https://images.igdb.com/igdb/image/upload/t_cover_big/co5wv6.jpg,Action,3D platformer where Mario collects stars in Princess Peach's castle.,Singleplayer,deepseek
+S.T.A.L.K.E.R. 2: Heart of Chornobyl,https://images.igdb.com/igdb/image/upload/t_cover_big/co5pxn.jpg,Shooter,Open-world survival FPS set in the Chornobyl Exclusion Zone.,Singleplayer,deepseek
+STALCRAFT: X,https://images.igdb.com/igdb/image/upload/t_cover_big/co8h06.jpg,Shooter,Open-world survival shooter in the Zone with PvP and PvE.,Multiplayer,deepseek
+Supermarket Together,https://images.igdb.com/igdb/image/upload/t_cover_big/co8mcl.jpg,Simulation,Cooperative game where players manage a supermarket together.,Multiplayer,deepseek
+Ragnarok Online 2,https://images.igdb.com/igdb/image/upload/t_cover_big/co1toh.jpg,RPG,"Fantasy MMORPG sequel with quests, classes, and multiplayer.",Multiplayer,deepseek
+The Outlast Trials,https://images.igdb.com/igdb/image/upload/t_cover_big/co29og.jpg,Survival,Psychological horror game surviving inhuman experiments with friends.,Both,deepseek
+Detroit: Become Human,https://images.igdb.com/igdb/image/upload/t_cover_big/co6mzf.jpg,Adventure,Narrative-driven game where players control androids in branching story.,Singleplayer,deepseek
+EA Sports UFC 2,https://images.igdb.com/igdb/image/upload/t_cover_big/co2bz5.jpg,Fighting,Mixed martial arts simulation with realistic fighters and modes.,Both,deepseek
+Palia,https://images.igdb.com/igdb/image/upload/t_cover_big/co6mc3.jpg,Simulation,"Multiplayer life simulation with farming, crafting, and community.",Multiplayer,deepseek
+Green Hell,https://images.igdb.com/igdb/image/upload/t_cover_big/co9d3h.jpg,Survival,"Survive in the Amazon rainforest against harsh elements, wildlife, and hunger in this open-world survival simulation.",Both,deepseek
+Microsoft Flight Simulator 2024,https://images.igdb.com/igdb/image/upload/t_cover_big/co91qm.jpg,Simulation,Realistic flight simulation with detailed aircraft and worldwide scenery. Fly solo or with others online.,Both,deepseek
+Teamfight Tactics,https://images.igdb.com/igdb/image/upload/t_cover_big/co8jux.jpg,Strategy,Auto-battler game where you draft champions and build synergies to defeat opponents' teams.,Multiplayer,deepseek
+No Man's Sky,https://images.igdb.com/igdb/image/upload/t_cover_big/co8j8v.jpg,Adventure,"Explore an infinite procedurally generated universe with survival, crafting, and multiplayer cooperation.",Both,deepseek
+Farming Simulator 25,https://images.igdb.com/igdb/image/upload/t_cover_big/co8fpu.jpg,Simulation,"Manage a farm with crops, animals, and machinery. Play solo or cooperatively with others.",Both,deepseek
+Tom Clancy's The Division 2,https://images.igdb.com/igdb/image/upload/t_cover_big/co1xrm.jpg,Shooter,Third-person shooter RPG set in a post-pandemic Washington D.C. with cooperative and PvP modes.,Both,deepseek
+Super Smash Bros. Ultimate,https://images.igdb.com/igdb/image/upload/t_cover_big/co2255.jpg,Fighting,Nintendo crossover fighting game with a huge roster. Play solo or battle friends locally and online.,Both,deepseek
+Dying Light,https://images.igdb.com/igdb/image/upload/t_cover_big/co65yq.jpg,Survival,First-person survival horror with parkour and zombie combat. Features single-player and co-op campaign.,Both,deepseek
+Sniper Elite: Resistance,https://images.igdb.com/igdb/image/upload/t_cover_big/co9brt.jpg,Shooter,Stealth tactical shooter focusing on long-range sniping. Play single-player campaign or multiplayer modes.,Both,deepseek
+New World: Aeternum,https://images.igdb.com/igdb/image/upload/t_cover_big/co8xyh.jpg,RPG,"Massively multiplayer open-world RPG with action combat, crafting, and faction wars on a mysterious island.",Multiplayer,deepseek
+Hello Kitty Island Adventure,https://images.igdb.com/igdb/image/upload/t_cover_big/co6ohb.jpg,Adventure,"Explore a vibrant island, befriend characters, and solve puzzles in this cozy adventure.",Singleplayer,deepseek
+The Headliners,https://images.igdb.com/igdb/image/upload/t_cover_big/co9c24.jpg,Adventure,Uncover a gripping story as a journalist in a dystopian city.,Singleplayer,deepseek
+Mir Tankov,https://images.igdb.com/igdb/image/upload/t_cover_big/co6q0c.jpg,Action,Pilot powerful tanks in massive team-based battles.,Multiplayer,deepseek
+The Binding of Isaac: Repentance,https://images.igdb.com/igdb/image/upload/t_cover_big/co949f.jpg,Action,"Delve into twisted dungeons, fight monsters, and collect items in this roguelike.",Singleplayer,deepseek
+Exoborne,https://images.igdb.com/igdb/image/upload/t_cover_big/co9dm3.jpg,Shooter,Engage in tactical firefights and extract valuable loot in a hostile environment.,Multiplayer,deepseek
+Grand Theft Auto: San Andreas,https://images.igdb.com/igdb/image/upload/t_cover_big/co2lb9.jpg,Action,"Explore a vast open world, complete missions, and build a criminal empire.",Singleplayer,deepseek
+Infinity Nikki,https://images.igdb.com/igdb/image/upload/t_cover_big/co8tdc.jpg,Adventure,"Dress up, explore a magical world, and solve style-based puzzles.",Singleplayer,deepseek
+Borderlands 3,https://images.igdb.com/igdb/image/upload/t_cover_big/co20r3.jpg,Shooter,"Hunt for loot, blast enemies, and explore chaotic worlds in this shooter.",Both,deepseek
+Knight Online,https://images.igdb.com/igdb/image/upload/t_cover_big/co5tgw.jpg,RPG,"Fight in a medieval fantasy war, level up, and conquer castles.",Multiplayer,deepseek
+Supermarket Simulator,https://images.igdb.com/igdb/image/upload/t_cover_big/co8guq.jpg,Simulation,"Manage your own supermarket, stock shelves, and satisfy customers.",Singleplayer,deepseek
